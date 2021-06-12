@@ -9,6 +9,13 @@
     <link rel="stylesheet" href="{{ URL::asset('css/app.css') }}">
 </head>
 
+<!-- Just an image -->
+<nav class="navbar navbar-primary bg-primary">
+  <a class="navbar-brand" href="#">
+    <img src="https://rekreartive.com/wp-content/uploads/2018/11/Logo-Untag-Surabaya-Universitas-17-Agustus-Surabaya.jpg" width="30" height="30" alt="">
+  </a>
+</nav>
+
 <body>
     <div class="container mt-3">
         <h2 class="mt-5">Data Dokter</h2>
